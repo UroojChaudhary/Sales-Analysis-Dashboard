@@ -11,7 +11,7 @@ It tracks and analyzes key performance indicators (KPIs) such as **Profit, Order
 ---
 
 ## 🖼️ File Screenshot
-![Dashboard Preview](https://github.com/username/repo-name/blob/main/Sales%20Analysis%20Dashboard.png)  
+https://github.com/UroojChaudhary/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-07-24%20040653.png
 
 ---
 
