@@ -51,7 +51,8 @@ No confidential or client data has been shared.
 **Urooj Chaudhary** — Power BI Developer & Data Analyst  
 💼 Specialized in building insightful dashboards, automating reporting, and transforming data into business value.  
 
-🔗 [LinkedIn](your-link) | [Fiverr](your-link) | [Upwork](your-link)  
+🔗 [LinkedIn] https://www.linkedin.com/in/urooj-chaudhary-a12981232/
+| [Fiverr] @uroojch245
 
 ---
 
